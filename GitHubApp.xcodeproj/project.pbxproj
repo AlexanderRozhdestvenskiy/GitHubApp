@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89167A5124FBDCA60059026B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89167A5024FBDCA60059026B /* Model.swift */; };
 		892CBDA624FA9233008FA00C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892CBDA524FA9233008FA00C /* AppDelegate.swift */; };
 		892CBDA824FA9233008FA00C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892CBDA724FA9233008FA00C /* SceneDelegate.swift */; };
 		892CBDAA24FA9233008FA00C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892CBDA924FA9233008FA00C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		89167A5024FBDCA60059026B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		892CBDA224FA9233008FA00C /* GitHubApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		892CBDA524FA9233008FA00C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		892CBDA724FA9233008FA00C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				892CBDA724FA9233008FA00C /* SceneDelegate.swift */,
 				892CBDA924FA9233008FA00C /* ViewController.swift */,
 				892CBDAB24FA9233008FA00C /* Main.storyboard */,
+				89167A5024FBDCA60059026B /* Model.swift */,
 				892CBDAE24FA9234008FA00C /* Assets.xcassets */,
 				892CBDB024FA9234008FA00C /* LaunchScreen.storyboard */,
 				892CBDB324FA9234008FA00C /* Info.plist */,
@@ -141,6 +144,7 @@
 				892CBDAA24FA9233008FA00C /* ViewController.swift in Sources */,
 				892CBDA624FA9233008FA00C /* AppDelegate.swift in Sources */,
 				892CBDA824FA9233008FA00C /* SceneDelegate.swift in Sources */,
+				89167A5124FBDCA60059026B /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
